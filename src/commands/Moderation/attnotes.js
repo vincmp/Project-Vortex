@@ -64,6 +64,7 @@ module.exports = {
         // Responde à interação do usuário com o embed de confirmação
         await interaction.reply({ embeds: [embed1], ephemeral: true });
         // Envia o embed com as notas de atualização para um canal específico no servidor
-        await interaction.guild.channels.cache.get('1172865588729753668').send({ embeds: [embed2] });
+        await interaction.guild.channels.cache.get('1224489215291687134').send({ embeds: [embed2] });
     }
 }
+    
