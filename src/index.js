@@ -96,3 +96,16 @@ const commandFolders = fs.readdirSync("./src/commands");
 
     client.login(process.env.token); // Login do bot.
 })();
+
+/*
+
+Olá querido desenvolvedor,
+Quando este codigo foi escrito, apenas Deus e eu sabiamos como ele funcionava.
+Agora apenas Deus sabe.
+
+Caso você esteja tentando melhorar este codigo e estiver falhando.
+(E com certeza você está), Por gentileza, aumente este contador como aviso ao proximo DEV.
+
+⊹ TOTAL DE HORAS GASTAS: 30 horas.
+
+*/
